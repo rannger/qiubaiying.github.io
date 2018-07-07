@@ -10,8 +10,6 @@ tags:
     - iOS
 --- 
 
-# Apple用什么方式实现对一个对象的KVO？ 
-
 
 
 [Apple 的文档](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)对 KVO 实现的描述：
