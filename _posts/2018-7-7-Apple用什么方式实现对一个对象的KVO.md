@@ -10,7 +10,7 @@ tags:
     - iOS
 --- 
 
-#Apple用什么方式实现对一个对象的KVO？ 
+# Apple用什么方式实现对一个对象的KVO？ 
 
 
 
