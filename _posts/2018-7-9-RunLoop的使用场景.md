@@ -64,7 +64,7 @@ tags:
 
 ```
 
-###其他一些关于timer的坑
+### 其他一些关于timer的坑
 
 我们在子线程中使用timer，也可以解决上面的问题，但是需要注意的是把timer加入到当前runloop后，必须让runloop 运行起来，否则timer仅执行一次。
 
