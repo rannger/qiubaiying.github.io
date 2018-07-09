@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      AFNetworking实现断点续传功能
+date:       2018-07-09
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Obj-C
+    - AFNetworking
+    - iOS
+    - 断点续传
+--- 
+
 # AFNetworking实现断点续传功能
 
 - **1.声明以下属性变量**
