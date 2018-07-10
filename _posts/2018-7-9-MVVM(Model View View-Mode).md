@@ -2,7 +2,7 @@
 
 MVVM衍生于MVC，是对 MVC 的一种演进，它促进了 UI 代码与业务逻辑的分离。它正式规范了视图和控制器紧耦合的性质，并引入新的组件。他们之间的结构关系如下：
 
-<img src="../img/1874977-0fb12f6848ba6e78.png"/>
+<img src="https://raw.githubusercontent.com/rannger/rannger.github.io/master/img/1874977-0fb12f6848ba6e78.png"/>
 
 - MVVM的基本概念
     - 在MVVM 中，view 和 view controller正式联系在一起，我们把它们视为一个组件
